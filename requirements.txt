@@ -1,0 +1,11 @@
+pypdf
+python-dotenv
+pinecone[grps]
+langchain-pinecone
+langchain-community
+langchain_openai
+langchain_experimental
+streamlit
+google-generativeai
+
+-e .
